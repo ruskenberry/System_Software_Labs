@@ -1,0 +1,16 @@
+*************************************************************************
+README - Charles Rusk
+10/20/20014
+SALISBURY UNIVERSITY
+MATH AND COSC DEPT.
+PROF: DR. SANG-EON PARK
+COSC 350(System Software): Lab 6
+*************************************************************************
+ executable	task#	src		args
+*************************************************************************
+./fileShare	Five	task5b.c	file to parse through
+./forkExec	Four	forkExec.c	Nc, Np, Tc, Tp
+./forkWait	Three	forkWait.c	Nc, Np, Tc, Tp
+./fork1		Two	fork1.c		Nc, Np, Tc, Tp
+./getmyenv	One	task1.c		Enviroment Variable
+*************************************************************************
